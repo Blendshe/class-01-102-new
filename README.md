@@ -15,12 +15,45 @@ we used
 
 20 mins internet markdown syntax use more syntax 
 
+# MARKDOWN SYNTAX
+
 # heading
+
 - bullet point
+
 **bold text**
+
 *italicized text*
-'code'
 
+`code`
 
+>blockquote
+
+Ordered list: 
+  1. First item
+  2. Second item
+  3. Third item
+
+horizontal rule ---
+
+[title](https://www.example.com)
+
+![alt text](image.jpg)
+
+# Examples
+
+# Photography Is Wonderful 
+
+---
+
+It is both 
+- art and 
+- science 
+
+The **art** is in the eye of the beholder 
+
+The *science* is the technique used to breakdown how the image was created 
+
+![A beautiful image with a digital camera](https://unsplash.com/photos/P89LffAnja8)
 
 
