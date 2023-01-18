@@ -12,3 +12,15 @@ we used
 - paragraph
 - source and 
 - image tags
+
+20 mins internet markdown syntax use more syntax 
+
+# heading
+- bullet point
+**bold text**
+*italicized text*
+'code'
+
+
+
+
